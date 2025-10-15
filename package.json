@@ -21,7 +21,6 @@
     "appId": "com.example.calculator",
     "files": [
       "src/**/*",
-      "assets/**/*",
       "package.json"
     ],
     "mac": {
@@ -33,9 +32,6 @@
     "linux": {
       "target": "AppImage"
     }
-  },
-  "directories": {
-    "test": "tests"
   },
   "keywords": [],
   "author": "",
