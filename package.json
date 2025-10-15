@@ -32,8 +32,5 @@
     "linux": {
       "target": "AppImage"
     }
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  }
 }
